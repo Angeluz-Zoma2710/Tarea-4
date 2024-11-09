@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mi Página con GIF</title>
+
 </head>
 <body>
     <h1>Tarea 4. Imagen GIF.!</h1>
